@@ -28,4 +28,7 @@ pip3 install antolib
 pip3 inatall urllib
 
 pip3 ติดตั้ง youtube_dl
+
 https://github.com/Hinamori-golf/JS-Hinamori.git
+
+
